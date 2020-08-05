@@ -1,8 +1,12 @@
-# Logistic-Regression-Heart-Disease
+# Classification Problem - Heart-Disease
 
-This study uses the Logistic Regression Methods to predict if a patient has a heart disease or not based on the data available.
+This study uses several methods to predict if a patient has a heart disease or not based on the data available.
 
 According to the dataset, the patient has a heart disease when target = 1 and not when target = 0.
+
+The methods considered in this study are: Logistic Regression, K Nearest Neighbors, Decision Tree and Random Forests.
+
+
 
 Columns Defintions:
 
